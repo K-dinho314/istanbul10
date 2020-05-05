@@ -1,11 +1,17 @@
 h1{
-    color: 6b201c;
+    color: #6b201c;
     text-align: center;
 }
 h3{ 
-    color: 0e224a;
+    color: #0e224a;
+    text-align: center;
+}
+table{
+    color: #1b1d21;
     text-align: center;
 }
 div{
-    background-image: url('https://imgc.artprintimages.com/img/print/mystical-sea-abstract-natural-backgrounds-moon-scene-after-sunset-with-still-water-and-vintage-bo_u-l-q1a5jux0.jpg?h=550&p=0&w=550&background=fbfbfb');
+    background-color: #9ea5b5;
+    width: 100%;
+    height: 40%; 
 }
