@@ -9,9 +9,18 @@ h3{
 table{
     color: #1b1d21;
     text-align: center;
+    border-top-color: #bac6de;
+    border-spacing: 25px;
+    border-collapse: separate; 
+
+    position: relative; 
+    top: -40px; 
 }
-div{
-    background-color: #9ea5b5;
+th{
+    background-color: #bac6de; 
+}
+.main{
+    background-image: url(boat.jpg);
     width: 100%;
-    height: 40%; 
+    height: 100%; 
 }
