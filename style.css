@@ -1,13 +1,13 @@
 h1{
-    color: #6b201c;
+    color: #9e5652;
     text-align: center;
     font-family: Helvetica;
-    padding: 10%;
+    padding: 2%;
 }
 h3{ 
     color: #0e224a;
     text-align: center;
-    padding: 10%;
+    padding: 8%;
 }
 
 .navbar{
@@ -39,12 +39,11 @@ table{
 th{
     background-color: #bac6de;
 }
-tr:nth-child(even){background-color: #f2f2f2}
 
 .main{
     background-image: url('boat.jpg');
     background-size: 100% 100%;
-    background-repeat: no repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
     font-family: Arial;
     font-size: 1em;
